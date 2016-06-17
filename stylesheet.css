@@ -10,7 +10,7 @@ p{
 }
 #special-list{
   width:25%;
-  background:red;
+  background:black;
 }
 li{
   color:white;
@@ -19,4 +19,20 @@ li{
 #specialAAA{
   margin-top:15px;
   margin-bottom:15px;
+}
+nav{
+  background-color:gray;
+  width:100%;
+  height:70px;
+  position:fixed;
+  top:0;
+}
+ul{
+text-align:center;
+}
+li{
+  display:inline;
+  position:relative;
+  margin-left:20px;
+  margin-top:20px;
 }
