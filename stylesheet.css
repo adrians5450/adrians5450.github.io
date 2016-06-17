@@ -8,3 +8,10 @@ p{
   font-size: 19px;
 
 }
+#special-list{
+  width:25%;
+  background:red;
+}
+li{
+  color:white;
+}
